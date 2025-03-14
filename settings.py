@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("this is Flashcard app")
